@@ -1,8 +1,1 @@
-{
-  "rewrites": [
-    {
-      "source": "/api/notams",
-      "destination": "https://notams.aim.faa.gov/notamSearch/search"
-    }
-  ]
-}
+{}
