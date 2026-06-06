@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/notams",
-      "destination": "https://api.aviationapi.com/v1/notams"
+      "destination": "https://notams.aim.faa.gov/notamSearch/search"
     }
   ]
 }
