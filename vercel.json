@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/api/notams/:path*",
-      "destination": "https://external-api.faa.gov/notamapi/v1/notams/:path*"
+      "source": "/api/notams",
+      "destination": "https://api.aviationapi.com/v1/notams"
     }
   ]
 }
